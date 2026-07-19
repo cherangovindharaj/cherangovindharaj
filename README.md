@@ -75,12 +75,12 @@ An AI-powered system that predicts bottlenecks and optimizes train scheduling.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherangovindharaj&show_icons=true&theme=radical" alt="Cheran's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherangovindharaj&theme=radical" alt="Cheran's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherangovindharaj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Cheran's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=cherangovindharaj&theme=radical" alt="Cheran's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherangovindharaj&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherangovindharaj&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
