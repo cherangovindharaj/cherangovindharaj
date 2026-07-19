@@ -28,8 +28,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -75,12 +75,7 @@ An AI-powered system that predicts bottlenecks and optimizes train scheduling.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherangovindharaj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Cheran's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=cherangovindharaj&theme=radical" alt="Cheran's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherangovindharaj&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
